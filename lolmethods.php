@@ -176,8 +176,8 @@
 	}
 	
 	#code to name methods
-	define('NAME', "leaguegrabber");
-	define('PASSWORD', "YzsJ82yAyjuaQVXr");
+	define('NAME', "a name");
+	define('PASSWORD', "a password");
 	
 	function code2name($code, $type){
 		$database = mysqli_connect('localhost', NAME, PASSWORD, 'leaguedata');
